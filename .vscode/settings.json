@@ -1,6 +1,9 @@
 {
     "files.associations": {
         "main_WBosonAnalysis.C": "cpp",
-        "WBosonAnalysis.C": "cpp"
+        "WBosonAnalysis.C": "cpp",
+        "main_HWWAnalysis.C": "cpp",
+        "HZZAnalysis.C": "cpp",
+        "main_SingleTopAnalysis.C": "cpp"
     }
 }
